@@ -1,0 +1,17 @@
+.list {
+    width: 100%;
+
+    border: 1px solid #ccc;
+}
+
+.list__title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.list__titleImage {
+    width: 25px;
+    height: 25px;
+}
